@@ -1,0 +1,28 @@
+.user-block{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    justify-content: space-between;
+    margin-top: 6vmin;
+}
+.login{
+    font-size: 20px;
+    margin-bottom: 6px;
+}
+.follower{
+    margin: 0px 6px;
+}
+.top-block{
+    display: flex;
+}
+
+.title{
+    margin-top: 12px;
+    margin-left: 22px;
+}
+.follower-first{
+    margin-right: 12px;
+}
+.follower{
+    font-size: 20px;
+}

@@ -1,0 +1,30 @@
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: space-between;
+    margin-top: 100px;
+}
+.inp{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:450px;
+    padding: 10px 5px;
+    box-shadow: 0px 3px 3px #111;
+}
+.inp:focus{
+    outline: none;
+}
+.searchIcon{
+    transform: translateY(8px);
+    top: 18%;
+    position:relative;
+    right: 35px;
+}
+
+.avatar-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
